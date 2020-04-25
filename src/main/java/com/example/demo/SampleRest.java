@@ -10,5 +10,5 @@ public class SampleRest {
 	public String hello() {
 		return "This is custom application";
 	}
-
+	
 }
